@@ -1,4 +1,4 @@
-# Human Detection And Counter System
+# Human Detection And Counter System Using YOLO
 
 How to run:
   1) Download YOLO weigt file from https://pjreddie.com/darknet/yolo/
